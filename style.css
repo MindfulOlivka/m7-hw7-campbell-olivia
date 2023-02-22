@@ -166,7 +166,7 @@ span.tooltip .bubble {
   visibility: hidden;
   position: absolute;
   width: 200px;
-  background-color: orange;
+  background-color: #F78828;
   color: white;
   text-align: center;
   border-radius: 10px;
@@ -187,5 +187,5 @@ span.tooltip span::after {
   margin-left: -5px;
   border-width: 5px;
   border-style: solid;
-  border-color: orange transparent transparent transparent;
+  border-color: #F78828 transparent transparent transparent;
 }
